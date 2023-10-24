@@ -1,0 +1,13 @@
+So basically your detector will give your the coordinates of the corner
+[1:23 PM]
+Then you just use your descriptor to extract features from these corner coordinates
+
+part3 linear interpolation
+
+
+[x,y] got this
+
+//([x,y],scale, orientation)
+
+([X,Y], near neighbor ratios)
+16*16 windows
